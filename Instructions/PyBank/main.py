@@ -5,8 +5,6 @@ import csv
 
 budget_data_csv = os.path.join('..', 'PyBank/Resources', 'budget_data.csv')
 
-# D:/github/python-challenge/Instructions/PyBank/Resources/budget_data.csv
-
 # Read in the CSV file
 with open(budget_data_csv, 'r') as csvfile:
 
