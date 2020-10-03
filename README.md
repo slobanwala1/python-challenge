@@ -3,6 +3,7 @@
 
 **Python Scripts to run through PyBank and PyPoll**
 
+
 1) PyBank analyzes the financial records of a company. We find:
 
     A) The total number of months included in the dataset
@@ -14,6 +15,7 @@
     D) The greatest increase in profits (date and amount) over the entire period
     
     E) The greatest decrease in losses (date and amount) over the entire period
+
 
 2) PyPoll
     
@@ -27,9 +29,10 @@
     
     E) The winner of the election based on popular vote.
 
+
 Time it takes to run the script is ~5 seconds.
 
 
-*Note** My Python Scripts are in: 
+*Note* My Python Scripts are in: 
 
-[my_submission](https://github.com/slobanwala1/python-challenge/tree/main/my_submission) folder. Here's the link for [PyBank](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyBank) and [PyPoll](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyPoll) . 
+[my_submission](https://github.com/slobanwala1/python-challenge/tree/main/my_submission) folder. Here's the link for [PyBank](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyBank) and [PyPoll](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyPoll)
