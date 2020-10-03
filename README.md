@@ -30,4 +30,6 @@
 Time it takes to run the script is ~5 seconds.
 
 
-*Note** My Python Scripts are in [Instructions](https://github.com/slobanwala1/python-challenge/tree/main/Instructions) as well as in [my_submission](https://github.com/slobanwala1/VBA-challenge/tree/main/my_submission) folder are the snapshots for how it would look when the script is ran. Also the script is there and in [Resources](https://github.com/slobanwala1/VBA-challenge/tree/master/Instructions/Resources).
+*Note** My Python Scripts are in: 
+
+[my_submission](https://github.com/slobanwala1/python-challenge/tree/main/my_submission) folder. Here's the link for [PyBank](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyBank) and [PyPoll](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyPoll) . 
