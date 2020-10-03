@@ -33,6 +33,4 @@
 Time it takes to run the script is ~5 seconds.
 
 
-*Note:* My Python Scripts are in: 
-
-[my_submission](https://github.com/slobanwala1/python-challenge/tree/main/my_submission) folder. Here's the link for [PyBank](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyBank) and [PyPoll](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyPoll)
+*Note:* My Python Scripts are in [my_submission](https://github.com/slobanwala1/python-challenge/tree/main/my_submission) folder. Here's the link for [PyBank](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyBank) and [PyPoll](https://github.com/slobanwala1/python-challenge/tree/main/my_submission/PyPoll)
